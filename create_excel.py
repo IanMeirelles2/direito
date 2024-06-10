@@ -3,11 +3,12 @@ import random
 
 # Dicionário para armazenar os números OAB por nome de advogado
 oab_by_name = {}
+cpf_by_name = {}
 
 # Função para gerar nomes aleatórios
 def random_name():
-    first_names = ["João", "Maria", "Carlos", "Ana", "José", "Paula", "Pedro"]
-    last_names = ["Silva", "Santos", "Oliveira", "Pereira", "Almeida"]
+    first_names = ["João", "Maria", "Carlos", "Ana", "José", "Paula"]
+    last_names = ["Silva", "Santos", "Oliveira", "Pereira"]
     return f"{random.choice(first_names)} {random.choice(last_names)}"
 
 # Função para gerar números OAB aleatórios
@@ -20,12 +21,19 @@ def random_oab(name):
         return oab
 
 # Função para gerar CPF aleatório
-def random_cpf():
-    return f"{random.randint(100, 999)}.{random.randint(100, 999)}.{random.randint(100, 999)}-{random.randint(10, 99)}"
+def random_cpf(name):
+    if name in cpf_by_name:
+        return cpf_by_name[name]
+    else:
+        cpf = f"{random.randint(100, 999)}.{random.randint(100, 999)}.{random.randint(100, 999)}-{random.randint(10, 99)}"
+        cpf_by_name[name] = cpf
+        return cpf
 
 # Função para gerar CNPJ aleatório
 def random_cnpj():
-    return f"{random.randint(10, 99)}.{random.randint(100, 999)}.{random.randint(100, 999)}/{random.randint(1000, 9999)}-{random.randint(10, 99)}"
+    cnpjs = ["08.343.492/0001-20", "72.820.822/0001-20", "40.432.544/0001-47", "00.416.968/0001-01"]
+    cnpj = random.choice(cnpjs)
+    return cnpj
 
 # Função para gerar tipos de ação aleatórios
 def random_case():
@@ -60,11 +68,11 @@ data_updated = {
     "Juizado Especial": []
 }
 
-for _ in range(70):
+for _ in range(150):
     name = random_name()
     data_updated["Nome do Advogado Principal"].append(name)
     data_updated["Inscrição OAB"].append(random_oab(name))
-    data_updated["CPF do autor"].append(random_cpf())
+    data_updated["CPF do autor"].append(random_cpf(name))
     data_updated["CNPJ do Réu"].append(random_cnpj())
     data_updated["Ação"].append(random_case())
     data_updated["Classe"].append(random_classe())
@@ -75,7 +83,7 @@ for _ in range(70):
 df_updated = pd.DataFrame(data_updated)
 
 # Caminho completo do arquivo para salvar
-csv_path_updated = "E:\ibmec _ian\projeto-direito"
+csv_path_updated = "db_updated.csv"
 
 # Salvando o dataframe como um arquivo CSV
 df_updated.to_csv(csv_path_updated, index=False)

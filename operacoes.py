@@ -1,15 +1,24 @@
 import pandas as pd
-df_excel = pd.read_csv('/workspaces/direito/database/db.csv', sep=',', encoding='utf-8')
+import matplotlib.pyplot as plt
+import seaborn as sns
 
-# Filtrar todos os casos em que o "UF" é "SP"
-cases_sp = df_excel[df_excel['UF'] == 'SP']
-print(cases_sp)
+#lendo o arquivo csv
+df = pd.read_csv('/workspaces/direito/database/db_updated.csv', sep=',', encoding='utf-8')
 
-# Agrupar por "Comarca" e contar o número de casos em cada uma
-cases_by_comarca = df_excel.groupby('Comarca').size().reset_index(name='Número de Casos')
-print(cases_by_comarca)
+#agrupar por por nome e contar o número de casos em cada um
+cases_by_name = df.groupby('Nome do Advogado Principal').size().reset_index(name='Número de Casos')
 
-# Calcular quantos casos de cada tipo de "Ação" existem
-cases_by_action = df_excel['Ação'].value_counts().reset_index(name='Número de Casos')
-cases_by_action.columns = ['Ação', 'Número de Casos']
-print(cases_by_action)
+#criar uma lista com os nomes dos advogados que possuem mais de 10 casos
+cases_choices = []
+for name in cases_by_name['Nome do Advogado Principal']:    
+    cases_separate = cases_by_name[cases_by_name['Nome do Advogado Principal'] == name]
+    if cases_separate['Número de Casos'].values[0] > 10:
+        cases_choices.append(cases_separate['Nome do Advogado Principal'].values[0])
+
+#para cada advogado com mais de 10 casos, contar o número de casos por ação e por CNPJ
+for nm in cases_choices:
+    cases = df.loc[df['Nome do Advogado Principal'] == nm]
+    actions = cases['Ação'].value_counts().reset_index(name='Número de Casos')
+    cnpj = cases['CNPJ do Réu'].value_counts().reset_index(name='Número de Casos')
+    print(f"\n{nm.upper()} \n\nAções: \n{actions}\n\nCNPJ: \n{cnpj}")
+

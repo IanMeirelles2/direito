@@ -1,0 +1,151 @@
+Nome do Advogado Principal,Inscrição OAB,CPF do autor,CNPJ do Réu,Ação,Classe,Comarca,UF,Juizado Especial
+Maria Silva,61247/PE,799.576.880-32,00.416.968/0001-01,Ação Revisional,Apelação Cível,Belo Horizonte,BA,Juizado especial cívil
+Ana Santos,75170/SP,627.769.576-74,72.820.822/0001-20,Ação de Obrigação de Fazer,Apelação Cível,Rio de Janeiro,PR,Juizado especial cívil
+Maria Pereira,97667/RJ,264.965.733-47,08.343.492/0001-20,Ação de Cobrança,Embargos de Declaração Cível,Salvador,BA,Juizado especial cívil
+João Santos,26485/SC,945.389.571-25,00.416.968/0001-01,Ação de Obrigação de Fazer,Apelação Cível,Florianópolis,RJ,Juizado especial cívil
+Carlos Pereira,25853/RJ,463.889.894-81,40.432.544/0001-47,Ação de Indenização,Embargos de Declaração Cível,Rio de Janeiro,SC,Juizado especial cívil
+José Oliveira,38751/RJ,792.419.754-43,40.432.544/0001-47,Ação de Cobrança,Apelação Cível,São Paulo,SC,Juizado especial cívil
+Maria Santos,99381/PE,561.662.950-96,72.820.822/0001-20,Ação de Cobrança,Apelação Cível,Curitiba,SP,Juizado especial cívil
+Ana Silva,98878/PE,154.117.795-65,00.416.968/0001-01,Ação de Cobrança,Embargos de Declaração Cível,Belo Horizonte,SP,Juizado especial cívil
+João Pereira,69013/SP,410.187.955-65,08.343.492/0001-20,Ação de Obrigação de Fazer,Apelação Cível,Florianópolis,SP,Juizado especial cívil
+João Pereira,69013/SP,410.187.955-65,00.416.968/0001-01,Ação de Execução,Embargos de Declaração Cível,Recife,RJ,Juizado especial cívil
+João Silva,94861/MG,949.399.243-10,08.343.492/0001-20,Ação de Obrigação de Fazer,Embargos de Declaração Cível,Porto Alegre,PE,Juizado especial cívil
+Maria Santos,99381/PE,561.662.950-96,08.343.492/0001-20,Ação de Cobrança,Embargos de Declaração Cível,Recife,PE,Juizado especial cívil
+José Oliveira,38751/RJ,792.419.754-43,40.432.544/0001-47,Ação de Cobrança,Apelação Cível,Salvador,SP,Juizado especial cívil
+Ana Silva,98878/PE,154.117.795-65,72.820.822/0001-20,Ação de Obrigação de Fazer,Apelação Cível,São Paulo,SC,Juizado especial cívil
+Ana Oliveira,43550/RS,735.604.782-68,08.343.492/0001-20,Ação de Indenização,Embargos de Declaração Cível,Florianópolis,PR,Juizado especial cívil
+Ana Silva,98878/PE,154.117.795-65,72.820.822/0001-20,Ação de Indenização,Apelação Cível,Florianópolis,RS,Juizado especial cívil
+Ana Oliveira,43550/RS,735.604.782-68,08.343.492/0001-20,Ação de Execução,Apelação Cível,Porto Alegre,MG,Juizado especial cívil
+José Oliveira,38751/RJ,792.419.754-43,08.343.492/0001-20,Ação Revisional,Embargos de Declaração Cível,Salvador,PE,Juizado especial cívil
+Maria Oliveira,84794/RS,488.828.957-46,00.416.968/0001-01,Ação de Cobrança,Apelação Cível,Belo Horizonte,SP,Juizado especial cívil
+Maria Silva,61247/PE,799.576.880-32,40.432.544/0001-47,Ação de Cobrança,Embargos de Declaração Cível,Curitiba,PR,Juizado especial cívil
+Paula Santos,70127/PE,958.537.357-71,72.820.822/0001-20,Ação de Indenização,Apelação Cível,Curitiba,PE,Juizado especial cívil
+José Oliveira,38751/RJ,792.419.754-43,72.820.822/0001-20,Ação de Obrigação de Fazer,Embargos de Declaração Cível,Porto Alegre,RJ,Juizado especial cívil
+João Santos,26485/SC,945.389.571-25,00.416.968/0001-01,Ação Revisional,Embargos de Declaração Cível,Florianópolis,MG,Juizado especial cívil
+José Oliveira,38751/RJ,792.419.754-43,08.343.492/0001-20,Ação de Cobrança,Apelação Cível,Recife,BA,Juizado especial cívil
+João Silva,94861/MG,949.399.243-10,40.432.544/0001-47,Ação Revisional,Embargos de Declaração Cível,Salvador,PE,Juizado especial cívil
+José Santos,68491/MG,292.699.882-56,00.416.968/0001-01,Ação de Indenização,Embargos de Declaração Cível,Rio de Janeiro,MG,Juizado especial cívil
+Ana Silva,98878/PE,154.117.795-65,72.820.822/0001-20,Ação de Obrigação de Fazer,Embargos de Declaração Cível,Recife,PE,Juizado especial cívil
+Ana Oliveira,43550/RS,735.604.782-68,40.432.544/0001-47,Ação Revisional,Apelação Cível,São Paulo,SC,Juizado especial cívil
+Maria Pereira,97667/RJ,264.965.733-47,72.820.822/0001-20,Ação de Cobrança,Embargos de Declaração Cível,São Paulo,SC,Juizado especial cívil
+Maria Pereira,97667/RJ,264.965.733-47,40.432.544/0001-47,Ação Revisional,Apelação Cível,Rio de Janeiro,PE,Juizado especial cívil
+Paula Pereira,53900/MG,274.215.611-24,40.432.544/0001-47,Ação de Indenização,Apelação Cível,Curitiba,MG,Juizado especial cívil
+Maria Santos,99381/PE,561.662.950-96,72.820.822/0001-20,Ação de Obrigação de Fazer,Embargos de Declaração Cível,Belo Horizonte,PE,Juizado especial cívil
+João Pereira,69013/SP,410.187.955-65,40.432.544/0001-47,Ação Revisional,Embargos de Declaração Cível,São Paulo,PR,Juizado especial cívil
+Maria Silva,61247/PE,799.576.880-32,72.820.822/0001-20,Ação de Obrigação de Fazer,Embargos de Declaração Cível,Porto Alegre,SC,Juizado especial cívil
+Paula Oliveira,64985/PR,758.630.594-84,00.416.968/0001-01,Ação de Execução,Embargos de Declaração Cível,Rio de Janeiro,PE,Juizado especial cívil
+Paula Oliveira,64985/PR,758.630.594-84,00.416.968/0001-01,Ação de Indenização,Embargos de Declaração Cível,Rio de Janeiro,PE,Juizado especial cívil
+Maria Oliveira,84794/RS,488.828.957-46,40.432.544/0001-47,Ação de Cobrança,Embargos de Declaração Cível,Recife,PE,Juizado especial cívil
+João Pereira,69013/SP,410.187.955-65,40.432.544/0001-47,Ação de Obrigação de Fazer,Apelação Cível,Rio de Janeiro,BA,Juizado especial cívil
+Paula Pereira,53900/MG,274.215.611-24,08.343.492/0001-20,Ação de Execução,Apelação Cível,Recife,PE,Juizado especial cívil
+João Pereira,69013/SP,410.187.955-65,72.820.822/0001-20,Ação de Obrigação de Fazer,Embargos de Declaração Cível,Belo Horizonte,PR,Juizado especial cívil
+Ana Pereira,38196/SP,458.809.985-63,72.820.822/0001-20,Ação Revisional,Apelação Cível,Salvador,PE,Juizado especial cívil
+José Santos,68491/MG,292.699.882-56,08.343.492/0001-20,Ação de Obrigação de Fazer,Embargos de Declaração Cível,Recife,PR,Juizado especial cívil
+João Silva,94861/MG,949.399.243-10,72.820.822/0001-20,Ação de Cobrança,Apelação Cível,Recife,SP,Juizado especial cívil
+José Pereira,93686/PE,157.948.267-38,08.343.492/0001-20,Ação Revisional,Embargos de Declaração Cível,Belo Horizonte,RJ,Juizado especial cívil
+José Oliveira,38751/RJ,792.419.754-43,40.432.544/0001-47,Ação de Cobrança,Embargos de Declaração Cível,São Paulo,RJ,Juizado especial cívil
+Ana Silva,98878/PE,154.117.795-65,08.343.492/0001-20,Ação de Indenização,Apelação Cível,Rio de Janeiro,PR,Juizado especial cívil
+Maria Santos,99381/PE,561.662.950-96,00.416.968/0001-01,Ação de Execução,Apelação Cível,Florianópolis,BA,Juizado especial cívil
+Maria Oliveira,84794/RS,488.828.957-46,72.820.822/0001-20,Ação Revisional,Embargos de Declaração Cível,Curitiba,MG,Juizado especial cívil
+Carlos Oliveira,27206/PE,623.491.198-89,08.343.492/0001-20,Ação Revisional,Apelação Cível,Salvador,BA,Juizado especial cívil
+Paula Santos,70127/PE,958.537.357-71,08.343.492/0001-20,Ação de Indenização,Apelação Cível,Curitiba,SP,Juizado especial cívil
+João Pereira,69013/SP,410.187.955-65,40.432.544/0001-47,Ação de Indenização,Apelação Cível,Salvador,BA,Juizado especial cívil
+João Oliveira,15868/SP,770.895.857-64,08.343.492/0001-20,Ação de Execução,Apelação Cível,Recife,SC,Juizado especial cívil
+Paula Santos,70127/PE,958.537.357-71,00.416.968/0001-01,Ação de Execução,Apelação Cível,Florianópolis,RS,Juizado especial cívil
+Carlos Santos,28161/SP,318.527.866-48,40.432.544/0001-47,Ação de Cobrança,Apelação Cível,Curitiba,BA,Juizado especial cívil
+João Pereira,69013/SP,410.187.955-65,40.432.544/0001-47,Ação de Cobrança,Apelação Cível,Florianópolis,PE,Juizado especial cívil
+Maria Pereira,97667/RJ,264.965.733-47,08.343.492/0001-20,Ação de Obrigação de Fazer,Embargos de Declaração Cível,Florianópolis,BA,Juizado especial cívil
+Ana Oliveira,43550/RS,735.604.782-68,00.416.968/0001-01,Ação de Obrigação de Fazer,Embargos de Declaração Cível,São Paulo,BA,Juizado especial cívil
+João Pereira,69013/SP,410.187.955-65,00.416.968/0001-01,Ação de Obrigação de Fazer,Embargos de Declaração Cível,Curitiba,PE,Juizado especial cívil
+Carlos Silva,23932/RS,993.284.136-17,40.432.544/0001-47,Ação de Indenização,Apelação Cível,Rio de Janeiro,RJ,Juizado especial cívil
+José Pereira,93686/PE,157.948.267-38,72.820.822/0001-20,Ação de Execução,Apelação Cível,Porto Alegre,PE,Juizado especial cívil
+Carlos Silva,23932/RS,993.284.136-17,00.416.968/0001-01,Ação Revisional,Embargos de Declaração Cível,Recife,BA,Juizado especial cívil
+Maria Pereira,97667/RJ,264.965.733-47,72.820.822/0001-20,Ação de Cobrança,Apelação Cível,Porto Alegre,RS,Juizado especial cívil
+Carlos Silva,23932/RS,993.284.136-17,72.820.822/0001-20,Ação de Obrigação de Fazer,Apelação Cível,Florianópolis,SP,Juizado especial cívil
+Paula Oliveira,64985/PR,758.630.594-84,40.432.544/0001-47,Ação Revisional,Apelação Cível,Salvador,SP,Juizado especial cívil
+José Oliveira,38751/RJ,792.419.754-43,72.820.822/0001-20,Ação Revisional,Embargos de Declaração Cível,Rio de Janeiro,MG,Juizado especial cívil
+José Pereira,93686/PE,157.948.267-38,40.432.544/0001-47,Ação Revisional,Apelação Cível,Rio de Janeiro,RJ,Juizado especial cívil
+Maria Silva,61247/PE,799.576.880-32,08.343.492/0001-20,Ação Revisional,Embargos de Declaração Cível,Recife,MG,Juizado especial cívil
+Ana Oliveira,43550/RS,735.604.782-68,08.343.492/0001-20,Ação Revisional,Apelação Cível,São Paulo,SC,Juizado especial cívil
+José Oliveira,38751/RJ,792.419.754-43,72.820.822/0001-20,Ação Revisional,Embargos de Declaração Cível,Salvador,BA,Juizado especial cívil
+Maria Silva,61247/PE,799.576.880-32,00.416.968/0001-01,Ação de Execução,Embargos de Declaração Cível,Florianópolis,RS,Juizado especial cívil
+Maria Pereira,97667/RJ,264.965.733-47,00.416.968/0001-01,Ação Revisional,Embargos de Declaração Cível,Belo Horizonte,MG,Juizado especial cívil
+Maria Silva,61247/PE,799.576.880-32,40.432.544/0001-47,Ação de Cobrança,Embargos de Declaração Cível,Porto Alegre,MG,Juizado especial cívil
+Carlos Santos,28161/SP,318.527.866-48,08.343.492/0001-20,Ação Revisional,Apelação Cível,Salvador,SC,Juizado especial cívil
+Ana Silva,98878/PE,154.117.795-65,08.343.492/0001-20,Ação Revisional,Apelação Cível,Florianópolis,RJ,Juizado especial cívil
+Ana Santos,75170/SP,627.769.576-74,40.432.544/0001-47,Ação de Cobrança,Apelação Cível,Porto Alegre,SC,Juizado especial cívil
+Ana Oliveira,43550/RS,735.604.782-68,40.432.544/0001-47,Ação de Execução,Apelação Cível,São Paulo,MG,Juizado especial cívil
+Ana Silva,98878/PE,154.117.795-65,00.416.968/0001-01,Ação Revisional,Apelação Cível,São Paulo,PE,Juizado especial cívil
+Carlos Pereira,25853/RJ,463.889.894-81,00.416.968/0001-01,Ação Revisional,Apelação Cível,Florianópolis,PR,Juizado especial cívil
+Carlos Silva,23932/RS,993.284.136-17,40.432.544/0001-47,Ação de Obrigação de Fazer,Apelação Cível,Salvador,MG,Juizado especial cívil
+José Pereira,93686/PE,157.948.267-38,08.343.492/0001-20,Ação Revisional,Apelação Cível,Recife,PR,Juizado especial cívil
+José Silva,84108/PE,954.492.419-68,72.820.822/0001-20,Ação de Obrigação de Fazer,Embargos de Declaração Cível,São Paulo,SC,Juizado especial cívil
+Ana Silva,98878/PE,154.117.795-65,00.416.968/0001-01,Ação de Cobrança,Apelação Cível,Belo Horizonte,PR,Juizado especial cívil
+Paula Silva,50575/RS,595.970.122-10,72.820.822/0001-20,Ação de Cobrança,Apelação Cível,Rio de Janeiro,PE,Juizado especial cívil
+José Santos,68491/MG,292.699.882-56,08.343.492/0001-20,Ação de Obrigação de Fazer,Apelação Cível,Porto Alegre,RJ,Juizado especial cívil
+João Pereira,69013/SP,410.187.955-65,72.820.822/0001-20,Ação Revisional,Apelação Cível,Rio de Janeiro,BA,Juizado especial cívil
+Paula Oliveira,64985/PR,758.630.594-84,00.416.968/0001-01,Ação de Indenização,Apelação Cível,Belo Horizonte,RJ,Juizado especial cívil
+João Silva,94861/MG,949.399.243-10,00.416.968/0001-01,Ação de Indenização,Apelação Cível,Porto Alegre,BA,Juizado especial cívil
+Paula Santos,70127/PE,958.537.357-71,72.820.822/0001-20,Ação de Indenização,Apelação Cível,Florianópolis,PE,Juizado especial cívil
+Ana Silva,98878/PE,154.117.795-65,08.343.492/0001-20,Ação de Execução,Embargos de Declaração Cível,Salvador,MG,Juizado especial cívil
+Ana Pereira,38196/SP,458.809.985-63,08.343.492/0001-20,Ação de Execução,Apelação Cível,Curitiba,MG,Juizado especial cívil
+José Oliveira,38751/RJ,792.419.754-43,40.432.544/0001-47,Ação de Execução,Apelação Cível,Belo Horizonte,SC,Juizado especial cívil
+José Oliveira,38751/RJ,792.419.754-43,72.820.822/0001-20,Ação Revisional,Embargos de Declaração Cível,São Paulo,SC,Juizado especial cívil
+Maria Santos,99381/PE,561.662.950-96,08.343.492/0001-20,Ação de Indenização,Apelação Cível,Salvador,RS,Juizado especial cívil
+Paula Pereira,53900/MG,274.215.611-24,72.820.822/0001-20,Ação Revisional,Embargos de Declaração Cível,Belo Horizonte,RS,Juizado especial cívil
+Carlos Oliveira,27206/PE,623.491.198-89,08.343.492/0001-20,Ação Revisional,Embargos de Declaração Cível,Rio de Janeiro,PE,Juizado especial cívil
+Carlos Pereira,25853/RJ,463.889.894-81,08.343.492/0001-20,Ação de Cobrança,Embargos de Declaração Cível,Curitiba,SC,Juizado especial cívil
+Maria Oliveira,84794/RS,488.828.957-46,00.416.968/0001-01,Ação de Cobrança,Embargos de Declaração Cível,Florianópolis,SC,Juizado especial cívil
+Ana Santos,75170/SP,627.769.576-74,08.343.492/0001-20,Ação de Cobrança,Apelação Cível,São Paulo,PR,Juizado especial cívil
+Paula Pereira,53900/MG,274.215.611-24,72.820.822/0001-20,Ação de Indenização,Apelação Cível,Florianópolis,RS,Juizado especial cívil
+Carlos Pereira,25853/RJ,463.889.894-81,40.432.544/0001-47,Ação de Indenização,Apelação Cível,Belo Horizonte,BA,Juizado especial cívil
+Carlos Santos,28161/SP,318.527.866-48,00.416.968/0001-01,Ação de Cobrança,Apelação Cível,Salvador,MG,Juizado especial cívil
+Ana Pereira,38196/SP,458.809.985-63,40.432.544/0001-47,Ação de Obrigação de Fazer,Embargos de Declaração Cível,Florianópolis,MG,Juizado especial cívil
+Paula Silva,50575/RS,595.970.122-10,00.416.968/0001-01,Ação Revisional,Embargos de Declaração Cível,Belo Horizonte,PR,Juizado especial cívil
+João Pereira,69013/SP,410.187.955-65,72.820.822/0001-20,Ação Revisional,Apelação Cível,Recife,RS,Juizado especial cívil
+Ana Pereira,38196/SP,458.809.985-63,72.820.822/0001-20,Ação de Obrigação de Fazer,Embargos de Declaração Cível,Belo Horizonte,BA,Juizado especial cívil
+Paula Pereira,53900/MG,274.215.611-24,08.343.492/0001-20,Ação de Indenização,Apelação Cível,Recife,MG,Juizado especial cívil
+Ana Oliveira,43550/RS,735.604.782-68,00.416.968/0001-01,Ação de Indenização,Embargos de Declaração Cível,Recife,PE,Juizado especial cívil
+José Santos,68491/MG,292.699.882-56,08.343.492/0001-20,Ação de Execução,Apelação Cível,Salvador,PR,Juizado especial cívil
+João Santos,26485/SC,945.389.571-25,72.820.822/0001-20,Ação de Execução,Apelação Cível,São Paulo,PR,Juizado especial cívil
+Carlos Santos,28161/SP,318.527.866-48,08.343.492/0001-20,Ação de Cobrança,Embargos de Declaração Cível,Florianópolis,RJ,Juizado especial cívil
+João Pereira,69013/SP,410.187.955-65,72.820.822/0001-20,Ação Revisional,Embargos de Declaração Cível,Salvador,PR,Juizado especial cívil
+Paula Silva,50575/RS,595.970.122-10,08.343.492/0001-20,Ação de Execução,Apelação Cível,Florianópolis,PR,Juizado especial cívil
+Maria Pereira,97667/RJ,264.965.733-47,40.432.544/0001-47,Ação de Cobrança,Apelação Cível,Florianópolis,PR,Juizado especial cívil
+Ana Santos,75170/SP,627.769.576-74,40.432.544/0001-47,Ação de Indenização,Apelação Cível,Porto Alegre,SP,Juizado especial cívil
+Carlos Oliveira,27206/PE,623.491.198-89,00.416.968/0001-01,Ação de Cobrança,Embargos de Declaração Cível,Recife,PR,Juizado especial cívil
+Paula Santos,70127/PE,958.537.357-71,40.432.544/0001-47,Ação de Obrigação de Fazer,Embargos de Declaração Cível,Rio de Janeiro,MG,Juizado especial cívil
+João Oliveira,15868/SP,770.895.857-64,00.416.968/0001-01,Ação de Obrigação de Fazer,Embargos de Declaração Cível,Florianópolis,PE,Juizado especial cívil
+Paula Oliveira,64985/PR,758.630.594-84,40.432.544/0001-47,Ação de Obrigação de Fazer,Embargos de Declaração Cível,Porto Alegre,RJ,Juizado especial cívil
+Carlos Oliveira,27206/PE,623.491.198-89,72.820.822/0001-20,Ação de Indenização,Embargos de Declaração Cível,Curitiba,PR,Juizado especial cívil
+Maria Pereira,97667/RJ,264.965.733-47,08.343.492/0001-20,Ação de Obrigação de Fazer,Embargos de Declaração Cível,Porto Alegre,MG,Juizado especial cívil
+José Silva,84108/PE,954.492.419-68,00.416.968/0001-01,Ação de Execução,Apelação Cível,Belo Horizonte,RJ,Juizado especial cívil
+Paula Pereira,53900/MG,274.215.611-24,72.820.822/0001-20,Ação Revisional,Apelação Cível,Belo Horizonte,RS,Juizado especial cívil
+Ana Silva,98878/PE,154.117.795-65,72.820.822/0001-20,Ação de Indenização,Apelação Cível,Rio de Janeiro,SP,Juizado especial cívil
+Maria Santos,99381/PE,561.662.950-96,08.343.492/0001-20,Ação de Indenização,Apelação Cível,Porto Alegre,MG,Juizado especial cívil
+Carlos Santos,28161/SP,318.527.866-48,00.416.968/0001-01,Ação de Cobrança,Apelação Cível,Porto Alegre,RJ,Juizado especial cívil
+Maria Silva,61247/PE,799.576.880-32,72.820.822/0001-20,Ação de Obrigação de Fazer,Embargos de Declaração Cível,Belo Horizonte,RS,Juizado especial cívil
+Ana Santos,75170/SP,627.769.576-74,00.416.968/0001-01,Ação de Cobrança,Apelação Cível,Florianópolis,RJ,Juizado especial cívil
+Ana Silva,98878/PE,154.117.795-65,00.416.968/0001-01,Ação Revisional,Apelação Cível,Florianópolis,SC,Juizado especial cívil
+José Santos,68491/MG,292.699.882-56,40.432.544/0001-47,Ação de Obrigação de Fazer,Embargos de Declaração Cível,Curitiba,PR,Juizado especial cívil
+José Santos,68491/MG,292.699.882-56,08.343.492/0001-20,Ação de Cobrança,Apelação Cível,Florianópolis,SP,Juizado especial cívil
+João Pereira,69013/SP,410.187.955-65,00.416.968/0001-01,Ação de Indenização,Embargos de Declaração Cível,Recife,PR,Juizado especial cívil
+Paula Pereira,53900/MG,274.215.611-24,72.820.822/0001-20,Ação de Indenização,Apelação Cível,Florianópolis,SP,Juizado especial cívil
+João Pereira,69013/SP,410.187.955-65,00.416.968/0001-01,Ação de Execução,Embargos de Declaração Cível,Recife,PR,Juizado especial cívil
+João Santos,26485/SC,945.389.571-25,72.820.822/0001-20,Ação Revisional,Apelação Cível,Porto Alegre,SC,Juizado especial cívil
+José Oliveira,38751/RJ,792.419.754-43,72.820.822/0001-20,Ação de Obrigação de Fazer,Apelação Cível,Porto Alegre,PR,Juizado especial cívil
+Carlos Oliveira,27206/PE,623.491.198-89,40.432.544/0001-47,Ação de Obrigação de Fazer,Embargos de Declaração Cível,Porto Alegre,RJ,Juizado especial cívil
+Carlos Silva,23932/RS,993.284.136-17,08.343.492/0001-20,Ação de Indenização,Apelação Cível,Salvador,SC,Juizado especial cívil
+Ana Pereira,38196/SP,458.809.985-63,08.343.492/0001-20,Ação de Cobrança,Embargos de Declaração Cível,Rio de Janeiro,RS,Juizado especial cívil
+Carlos Pereira,25853/RJ,463.889.894-81,08.343.492/0001-20,Ação de Obrigação de Fazer,Embargos de Declaração Cível,Rio de Janeiro,RJ,Juizado especial cívil
+José Santos,68491/MG,292.699.882-56,00.416.968/0001-01,Ação de Cobrança,Embargos de Declaração Cível,Recife,PR,Juizado especial cívil
+Maria Pereira,97667/RJ,264.965.733-47,08.343.492/0001-20,Ação de Indenização,Embargos de Declaração Cível,São Paulo,SC,Juizado especial cívil
+Carlos Oliveira,27206/PE,623.491.198-89,08.343.492/0001-20,Ação de Indenização,Apelação Cível,Porto Alegre,PR,Juizado especial cívil
+João Santos,26485/SC,945.389.571-25,08.343.492/0001-20,Ação de Indenização,Embargos de Declaração Cível,Curitiba,SP,Juizado especial cívil
+Maria Pereira,97667/RJ,264.965.733-47,08.343.492/0001-20,Ação Revisional,Apelação Cível,Salvador,SC,Juizado especial cívil
+José Pereira,93686/PE,157.948.267-38,40.432.544/0001-47,Ação de Execução,Embargos de Declaração Cível,Porto Alegre,PE,Juizado especial cívil
+José Oliveira,38751/RJ,792.419.754-43,00.416.968/0001-01,Ação de Obrigação de Fazer,Apelação Cível,Recife,BA,Juizado especial cívil
+Carlos Santos,28161/SP,318.527.866-48,00.416.968/0001-01,Ação de Indenização,Apelação Cível,Florianópolis,PE,Juizado especial cívil
+Paula Silva,50575/RS,595.970.122-10,00.416.968/0001-01,Ação de Execução,Embargos de Declaração Cível,Recife,PE,Juizado especial cívil
+José Santos,68491/MG,292.699.882-56,00.416.968/0001-01,Ação de Execução,Apelação Cível,Recife,RJ,Juizado especial cívil
+Paula Santos,70127/PE,958.537.357-71,08.343.492/0001-20,Ação de Cobrança,Apelação Cível,Porto Alegre,SP,Juizado especial cívil
