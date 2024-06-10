@@ -1,5 +1,5 @@
 import pandas as pd
-df_excel = pd.read_excel('/workspaces/direito/database/dfdireito.xlsx', engine='openpyxl')
+df_excel = pd.read_csv('/workspaces/direito/database/db.csv', sep=',', encoding='utf-8')
 
 # Filtrar todos os casos em que o "UF" é "SP"
 cases_sp = df_excel[df_excel['UF'] == 'SP']

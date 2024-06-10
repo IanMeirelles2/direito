@@ -1,15 +1,23 @@
 import pandas as pd
 import random
 
+# Dicionário para armazenar os números OAB por nome de advogado
+oab_by_name = {}
+
 # Função para gerar nomes aleatórios
 def random_name():
-    first_names = ["João", "Maria", "Carlos", "Ana", "José", "Paula", "Pedro", "Clara", "Rafael", "Juliana"]
-    last_names = ["Silva", "Santos", "Oliveira", "Pereira", "Costa", "Rodrigues", "Martins", "Almeida", "Barbosa", "Melo"]
+    first_names = ["João", "Maria", "Carlos", "Ana", "José", "Paula", "Pedro"]
+    last_names = ["Silva", "Santos", "Oliveira", "Pereira", "Almeida"]
     return f"{random.choice(first_names)} {random.choice(last_names)}"
 
 # Função para gerar números OAB aleatórios
-def random_oab():
-    return f"{random.randint(10000, 99999)}/{random.choice(['SP', 'RJ', 'MG', 'RS', 'PR', 'SC', 'BA', 'PE'])}"
+def random_oab(name):
+    if name in oab_by_name:
+        return oab_by_name[name]
+    else:
+        oab = f"{random.randint(10000, 99999)}/{random.choice(['SP', 'RJ', 'MG', 'RS', 'PR', 'SC', 'BA', 'PE'])}"
+        oab_by_name[name] = oab
+        return oab
 
 # Função para gerar CPF aleatório
 def random_cpf():
@@ -41,16 +49,28 @@ def random_uf():
 
 # Criar dataframe com colunas adicionais
 data_updated = {
-    "Nome do Advogado Principal": [random_name() for _ in range(40)],
-    "Inscrição OAB": [random_oab() for _ in range(40)],
-    "CPF do autor": [random_cpf() for _ in range(40)],
-    "CNPJ do Réu": [random_cnpj() for _ in range(40)],
-    "Ação": [random_case() for _ in range(40)],
-    "Classe": [random_classe() for _ in range(40)],
-    "Comarca": [random_comarca() for _ in range(40)],
-    "UF": [random_uf() for _ in range(40)],
-    "Juizado Especial": ["Juizado especial cívil" for _ in range(40)]
+    "Nome do Advogado Principal": [],
+    "Inscrição OAB": [],
+    "CPF do autor": [],
+    "CNPJ do Réu": [],
+    "Ação": [],
+    "Classe": [],
+    "Comarca": [],
+    "UF": [],
+    "Juizado Especial": []
 }
+
+for _ in range(70):
+    name = random_name()
+    data_updated["Nome do Advogado Principal"].append(name)
+    data_updated["Inscrição OAB"].append(random_oab(name))
+    data_updated["CPF do autor"].append(random_cpf())
+    data_updated["CNPJ do Réu"].append(random_cnpj())
+    data_updated["Ação"].append(random_case())
+    data_updated["Classe"].append(random_classe())
+    data_updated["Comarca"].append(random_comarca())
+    data_updated["UF"].append(random_uf())
+    data_updated["Juizado Especial"].append("Juizado especial cívil")
 
 df_updated = pd.DataFrame(data_updated)
 
